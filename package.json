@@ -1,9 +1,9 @@
 {
-  "name": "nai_lottery_dapp",
-  "description": "A web3 platform built in nextjs",
+  "name": "dapplottery",
+  "description": "A Next.js starter that includes all you need to build amazing projects",
   "version": "1.0.0",
   "private": true,
-  "author": "Rodgers",
+  "author": "darlington gospel<darlingtongospel@gmail.com>",
   "license": "MIT",
   "keywords": [
     "nextjs",
@@ -26,6 +26,7 @@
     ]
   },
   "dependencies": {
+    "@cometchat-pro/chat": "3.0.11",
     "@reduxjs/toolkit": "1.9.3",
     "ethers": "^5.4.7",
     "next": "13.1.2",
